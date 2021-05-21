@@ -1,0 +1,16 @@
+.app__header {
+  display: flex;
+  justify-content: space-between;
+  height: 5rem;
+  /* margin-bottom: 10rem; */
+  align-items: center;
+  width: 100%;
+  padding: 5px;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+.app__headerBlack {
+  background-color: #c2a9a9;
+}
